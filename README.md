@@ -39,7 +39,7 @@ Power BI is used to create interactive and informative visualizations that showc
 ![Dashboard 1](https://github.com/Hardeep6dhiman/Adventure_Cycles_Sales_Project/blob/main/Dashboard_1.png)
 
 
-![Dashboard 2]()
+![Dashboard 2](https://github.com/Hardeep6dhiman/Adventure_Cycles_Sales_Project/blob/main/Dashboard_2.png)
 
 
 ## Dependencies
