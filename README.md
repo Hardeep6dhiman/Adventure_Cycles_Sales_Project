@@ -29,25 +29,22 @@ Once the data is prepared, structuring data to establish relationships between d
 
 Power BI is used to create interactive and informative visualizations that showcase the insights gained from the data analysis. The visualizations may include:
 
-- Bar charts and pie charts displaying sales by product category.
-- Time series charts illustrating sales trends.
-- Geographic maps showing the distribution of restaurant locations.
+- Donut charts displaying Total sales and total quantity by category.
+- Tree map illustrating quantity by product category.
+- Geographic maps showing the distribution of sales locations.
 - Dashboards summarizing key performance indicators (KPIs).
 
 ### Power BI Visualization
 
-![Dashboard 1](https://github.com/Hardeep6dhiman/Pizza_Sales_Project/blob/main/Pizza_Sales_Dashboard-1.png)
+![Dashboard 1]()
 
 
-![Dashboard 2](https://github.com/Hardeep6dhiman/Pizza_Sales_Project/blob/main/Pizza_Sales_Dashboard-2.png)
+![Dashboard 2]()
 
-### 5. Insights and Recommendations
-
-Based on the analysis and visualizations, actionable insights and recommendations are provided to the pizza restaurant chain. These insights can help in making informed decisions to improve sales, marketing strategies, and overall business performance.
 
 ## Dependencies
 
-- SQL database or data source
+- Data source
 - Power BI Desktop
 
 
